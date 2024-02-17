@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rishika Rai</h1>
 <h2 align="center">Currently in my learning and growing era🏆✨</h2>
 <h3 align="center">I am currently in the midst of my undergraduate journey, passionately pursuing a B.Tech. degree in Computer Science and Engineering at Banasthali Vidyapith.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+gif+girl&tbm=isch&hl=en&chips=q:animated+coding+gif+girl,online_chips:computer+programmer:eZshwK7Xwc0%3D&prmd=ivsnbmtz&rlz=1C1UEAD_enIN1013IN1013&sa=X&ved=2ahUKEwi6zbKJ2LKEAxXz6aACHT2OBn0Q4lYoB3oECAEQQg&biw=1350&bih=732">
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikarai26&label=Profile%20views&color=0e75b6&style=flat" alt="rishikarai26" /> </p>
 
