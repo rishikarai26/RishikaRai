@@ -1,5 +1,5 @@
 # rishika1
-[![MasterHead](https://images.app.goo.gl/dyne6XCZcosngJ1o8)]
+<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h1 align="center">Hi 👋, I'm Rishika Rai</h1>
 <h2 align="center">Currently in my learning and growing era🏆✨</h2>
 <h3 align="center">I am currently in the midst of my undergraduate journey, passionately pursuing a B.Tech. degree in Computer Science and Engineering at Banasthali Vidyapith.</h3>
