@@ -1,5 +1,5 @@
 # rishika1
-<img align="center" alt="Coder GIF" width="600" src="https://indoanalytica.com/static/images/bannerr.gif" />
+<img align="center" alt="Coder GIF" width="1000" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h1 align="center">Hi 👋, I'm Rishika Rai</h1>
 <h2 align="center">Currently in my learning and growing era🏆✨</h2>
 <h3 align="center">I am currently in the midst of my undergraduate journey, passionately pursuing a B.Tech. degree in Computer Science and Engineering at Banasthali Vidyapith.</h3>
