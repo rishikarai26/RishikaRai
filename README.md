@@ -1,5 +1,5 @@
 # rishika1
-[![MasterHead](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)
+[![MasterHead](https://images.app.goo.gl/dyne6XCZcosngJ1o8)
 <h1 align="center">Hi 👋, I'm Rishika Rai</h1>
 <h2 align="center">Currently in my learning and growing era🏆✨</h2>
 <h3 align="center">I am currently in the midst of my undergraduate journey, passionately pursuing a B.Tech. degree in Computer Science and Engineering at Banasthali Vidyapith.</h3>
