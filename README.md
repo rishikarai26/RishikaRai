@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rishika Rai</h1>
 <h2 align="center">Currently in my learning and growing era🏆✨</h2>
 <h3 align="center">I am currently in the midst of my undergraduate journey, passionately pursuing a B.Tech. degree in Computer Science and Engineering at Banasthali Vidyapith.</h3>
-<img align="right" alt="Coding" width="300" src="https://images.app.goo.gl/tB733EPFiri6Jco7A">
+<img align="right" alt="Coding" width="300" src="https://images.app.goo.gl/KeCmmASdBqAmpzsYA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikarai26&label=Profile%20views&color=0e75b6&style=flat" alt="rishikarai26" /> </p>
 
